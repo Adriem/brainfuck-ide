@@ -1,0 +1,21 @@
+{
+  "name": "brainfuck-ide",
+  "version": "0.0.1",
+  "description": "A CLI based Brainfuck IDE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriem/brainfuck-ide.git"
+  },
+  "author": "Adrian Moreno <adrn.moreno@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriem/brainfuck-ide/issues"
+  },
+  "homepage": "https://github.com/Adriem/brainfuck-ide#readme",
+  "dependencies": { }
+}
